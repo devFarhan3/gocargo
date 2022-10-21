@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="71.546" viewBox="0 0 92 71.546">
+  <g id="logo" transform="translate(-190.811 -317.238)">
+    <g id="Group_354" data-name="Group 354" transform="translate(204.709 317.238)">
+      <path id="Path_714" data-name="Path 714" d="M474.671,317.238l23.2,13.395h16.6l-23.2-13.395Z" transform="translate(-446.936 -317.238)" fill="#f65e46"/>
+      <path id="Path_715" data-name="Path 715" d="M527.445,424.572l-17.5,30.311h21.4l17.78-30.8h-21.4Z" transform="translate(-475.919 -405.032)" fill="#00c0c3"/>
+      <path id="Path_716" data-name="Path 716" d="M344.954,344.532l9.553,5.516-9.553,5.516,3.185-5.516Zm2.274,26.346,18.208-31.537-28.081-16.213-18.208,31.537,8.6,4.964c3.8-5.028,10.5-8.361,17.351-9.707a23.068,23.068,0,0,0-11.4,13.143h0a22.093,22.093,0,0,0-.382,12.225,22.075,22.075,0,0,1,2.63-10.927Z" transform="translate(-319.147 -322.078)" fill="#5e3c9b"/>
+    </g>
+    <text id="GO_CARGO" data-name="GO CARGO" transform="translate(236.811 386.784)" fill="#0d1243" font-size="15" font-family="AirstrikeExpanded, Airstrike"><tspan x="-45" y="0">GO CARGO</tspan></text>
+  </g>
+</svg>
